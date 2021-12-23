@@ -1,85 +1,74 @@
-<a href="#"><img width="100%" height="auto" src="https://blogger.googleusercontent.com/img/a/AVvXsEgQ9oo2cODauQO6FKyklMlIafHZdktBpODmpUv0iQd-Dqnr20Z8S-8QPfnoDL4hbd3DJKWGWbPQyR4N29lJz7FawEjhljdZDlIrynvE4AB7UdUXXgE1xYoF-O9zlYD_qOQiWx1PxtgzbLcWy8kLpalO6hWkBxMuqo_OEENe7gRIcs8UedrcuDuaUzET=s3464" height="175px"/></a>
+ 
+<img src="https://github.com/AD4NAN/AD4NAN/blob/main/IMAGE/AD4NAN.gif" width="120" height="120" align="left">
+<center>
+  
+  
+  
+   ## * MY SOCIAL MEDIA : <br>
+<a href="https://www.instagram.com/ad4nan.official/" target="_blank"><img src="https://github.com/AD4NAN/AD4NAN/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
+<a href="https://t.me/#"><img src="https://github.com/AD4NAN/AD4NAN/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
+<a href="https://www.facebook.com/Adnan.Islam.0.2/" target="_blank"><img src="https://github.com/AD4NAN/AD4NAN/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/#"><img src="https://github.com/AD4NAN/AD4NAN/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
+  
+____যেমন করবা , তেমন পাবা____
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm AD4NAN</h1>
-<h3 align="center">Hey There , I am Adnan Islam. I am a front end web developer and a code modifier at python .</h3>
+Want to contact <a href="https://github.com/AD4NAN"><b>Adnan Islam </a> ?</br><br>
+<img src="https://github.com/AD4NAN/AD4NAN/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
+CONTACT : <i>ad4nan@hotmail.com</i>  <br> <br> 
 
 
-## 🙋‍♂️ About Me
+<a href="https://github.com/AD4NAN/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/Azim-vau?label=Followers&color=blue&style=flat-square"></a>
+<a href="https://github.com/AD4NAN/termux-style/stargazers/">
+  <a href="https://github.com/AD4NAN/pro">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/AD4NAN/pro.svg"/>
+  </a>
+  <a href="https://github.com/AD4NAN/pro">
+    <img alt="Language" src="https://img.shields.io/github/languages/count/AD4NAN/pro.svg"/>
+  </a>
+  <a href="https://github.com/AD4NAN/pro">
+    <img alt="Starts" src="https://img.shields.io/github/stars/AD4NAN/pro.svg"/>
+  </a>
+<a href="https://github.com/AD4NAN/pro">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/AD4NAN/pro.svg"/>
+  </a>
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
-
-- 📫 How to reach me **adnanislam741@gmail.com**
-
-- 📫 Contact me **contact@brintomustavhi.cf**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<a href="https://github.com/AD4NAN/pro">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/AD4NAN/pro.svg"/> <a href="https://github.com/AD4NAN/pro">
+    <img alt="Forks" src="https://img.shields.io/github/forks/AD4NAN/pro.svg"/>
+  </a>
+</div>
 
 <p align="center">
-    <a href="https://github.com/AD4NAN/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AD4NAN Raoniar's straek" src="https://github-readme-streak-stats.herokuapp.com/?user=AD4NAN&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-## 📊 My Github Stats
+#### INSTALL TOOL ON TERMUX
+```python
+$ apt update && apt upgrade
+$ apt install python2
+$ pip2 install lolcat
+$ pip2 install mechanize
+$ pip2 install requests bs4
+$ apt install git
+$ git clone https://github.com/AD4NAN/pro.git
+```
+#### RUN SCRIPT
+```python
+$ cd pro
+$ python2 pro.py
+```
 
-  <br/>
-    <a href="https://github.com/AD4NAN/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AD4NAN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AD4NAN/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AD4NAN&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+#### [~] SINGLE COMMAND
+
+```python
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/AD4NAN/pro ; cd pro ; python2 pro.py
+```
+<b>DOWNLOAD ACCESS TOKEN APK</b><br>
+ <a href="https://drive.google.com/uc?export=download&id=1-kGI9MWzZle2g4SxSjp2XTyLNj87ip6V">  DOWNLOAD</a>
+</br>
+#### MY SOCIAL MEDIA
+
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/AD4NAN)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/Adnan.Islam.0.2)
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/ad4nan.official/) 
 
 
-<br/>
-<br/>
-
-<a href="https://github.com/AD4NAN/github-readme-activity-graph"><img alt="AD4NAN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AD4NAN&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.facebook.com/AD4NAN.0.4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/AD4NAN.0.4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.facebook.com/AD4NAN.0.4"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/AD4NAN.0.4"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/AD4NAN?tab=followers"><img src="https://img.shields.io/github/followers/AD4NAN?label=Followers&style=social" alt="GitHub Badge"></a>
