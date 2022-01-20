@@ -74,11 +74,10 @@
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-## ❤ Views and Followers
+
 
 <h3><b><i>Visitors :</i></b></h3>
 
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/AD4NAN/count.svg)
-<a href="https://github.com/AD4NAN?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
